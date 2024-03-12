@@ -1,8 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=tifakemi&show_icons=true&title_color=eeafc9&text_color=eeafc9&icon_color=eeafc9&bg_color=0D1117&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=tifakemi&show_icons=true&title_color=9C70D1&text_color=9C70D1&icon_color=9C70D1&bg_color=0D1117&cache_seconds=2300" alt="ilustração do status do github">
 
 ### hiii, I'm Akemi~  ♪
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Akemi&color=eeafc9&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Akemi&color=9C70D1&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 🌱 ⋮ I'm learning **database** and **computer architecture** <br/> 👩‍💻 ⋮ Developing in **NodeJS** <br/> 🧝 ⋮ I'm **cosplayer**
 
