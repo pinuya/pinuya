@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pinuyadeveloper@gmail.com)](mailto:pinuyadeveloper@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/pinuya?label=follow&style=social)](https://github.com/pinuya)
 
-<p>My name is Tifany, I have a degree in <strong>Systems Analysis and Development</strong>. I build my projects with <strong>Typescript</strong> and <strong>NodeJS</strong>.</p>
+<p>My name is Tifany, I have a degree in <strong>Systems Analysis and Development</strong>. I build my projects with <strong>Typescript</strong>.</p>
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Remix-3274C5?style=for-the-badge&logo=remix&logoColor=white" />
