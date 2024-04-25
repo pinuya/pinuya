@@ -6,8 +6,8 @@ I'm Tifany, fullstack developer with a degree in Systems Analysis and Developmen
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=007ACC"/> <img src="https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js&logoColor=43853D"/> <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC"/> <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/-Remix-333333?style=flat&logo=remix&logoColor=3274C5"/> <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=100000"/> 
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pinuya&title_color=f47fb8&text_color=f47fb8&icon_color=f47fb8&bg_color=0D1117&border_color=0D1117&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinuya&title_color=f47fb8&text_color=f47fb8&icon_color=f47fb8&bg_color=0D1117&border_color=0D1117&include_all_commits=true&count_private=true&layout=compact" />  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pinuya&title_color=A5A4BE&text_color=A5A4BE&icon_color=A5A4BE&bg_color=0D1117&border_color=0D1117&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinuya&title_color=A5A4BE&text_color=A5A4BE&icon_color=A5A4BE&bg_color=0D1117&border_color=0D1117&include_all_commits=true&count_private=true&layout=compact" />  
 </div>
 
 #
