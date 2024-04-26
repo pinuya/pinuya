@@ -12,8 +12,8 @@ I'm Tifany, fullstack developer with a degree in Systems Analysis and Developmen
 </div>
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pinuya&title_color=594882&text_color=594882&icon_color=594882&bg_color=0D1117&border_color=0D1117&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinuya&title_color=594882&text_color=594882&icon_color=594882&bg_color=0D1117&border_color=0D1117&include_all_commits=true&count_private=true&layout=compact" />  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pinuya&title_color=C39CE7&text_color=C39CE7&icon_color=C39CE7&bg_color=0D1117&border_color=0D1117&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinuya&title_color=C39CE7&text_color=C39CE7&icon_color=C39CE7&bg_color=0D1117&border_color=0D1117&include_all_commits=true&count_private=true&layout=compact" />  
 </div>
 
 #
