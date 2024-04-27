@@ -12,8 +12,8 @@ I'm Tifany, fullstack developer with a degree in Systems Analysis and Developmen
 </div>
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pinuya&title_color=C39CE7&text_color=C39CE7&icon_color=C39CE7&bg_color=0D1117&border_color=0D1117&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinuya&title_color=C39CE7&text_color=C39CE7&icon_color=C39CE7&bg_color=0D1117&border_color=0D1117&include_all_commits=true&count_private=true&hide=blade,mustache&layout=compact" />  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pinuya&title_color=86cecb&text_color=86cecb&icon_color=86cecb&bg_color=0D1117&border_color=0D1117&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinuya&title_color=86cecb&text_color=86cecb&bg_color=0D1117&border_color=0D1117&include_all_commits=true&count_private=true&hide=blade,mustache&layout=compact" />  
 </div>
 
 #
@@ -22,3 +22,7 @@ I'm Tifany, fullstack developer with a degree in Systems Analysis and Developmen
 [![Linkedin](https://img.shields.io/badge/linkedin-292D3E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tifanyanunes/)](https://www.linkedin.com/in/tifanyanunes/)
 [![Gmail Badge](https://img.shields.io/badge/-email-292D3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pinuyadeveloper@gmail.com)](mailto:pinuyadeveloper@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-twitter-292D3E?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/pinuyadev)](https://twitter.com/pinuyadev)
+
+<div align=center>
+<img src="https://64.media.tumblr.com/c7a203309efb0f4fad0abcce4d7e3ee3/777b7e2884222cb8-62/s400x600/9664830276af75e4fb38dd4a2e878259c89e0f8a.gifv">
+</div>
