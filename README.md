@@ -10,6 +10,7 @@ Welcome to my <strong>GitHub</strong> profile! I'm a fullstack developer with a 
 [![Gmail Badge](https://img.shields.io/badge/-email-292D3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pinuyadeveloper@gmail.com)](mailto:pinuyadeveloper@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-twitter-292D3E?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/pinuyadev)](https://twitter.com/pinuyadev)
 [![Twitch Badge](https://img.shields.io/badge/-twitch-292D3E?style=flat-square&logo=Twitch&logoColor=white&link=https://twitter.com/pinuyadev)](https://www.twitch.tv/pinuyaa)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-292D3E?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tifsnx/)](https://www.instagram.com/tifsnx/)
 #
 <div align=center>
   
