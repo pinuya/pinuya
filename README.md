@@ -8,7 +8,9 @@ Welcome to my <strong>GitHub</strong> profile! I'm a fullstack developer with a 
 [![Gmail Badge](https://img.shields.io/badge/-email-292D3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pinuyadeveloper@gmail.com)](mailto:pinuyadeveloper@gmail.com)
 
 #
+### Skills and Stats
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,react,html,css,tailwind,docker,supabase,express,postgres,remix,nextjs,vite,figma,git,linux)](https://skillicons.dev)
 <div align=center>
   
-[![card](https://github-readme-stats.vercel.app/api?username=pinuya&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=pinuya&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
