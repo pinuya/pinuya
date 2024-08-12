@@ -24,18 +24,17 @@
     ├── /languages
     │   ├── java
     │   ├── javascript
-    │   ├── node.js
     │   ├── typescript
-    │   ├── react
     │   └── tailwindCSS
     │
-     ├── /frameworks
+    ├── /frameworks
     │   ├── remix
     │   ├── vite
-    │   ├── nextjs
+    │   ├── next.js
+    │   ├── react
     │   └──  node.js
     │   
-      ├── /infra
+    ├── /infra
     │   ├── docker
     │   └── postgress
     │
