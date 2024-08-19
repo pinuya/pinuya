@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/pinuya/pinuya/blob/main/image.jpeg" alt="Frieren" style="width: 200%; border: none;">
+      <img src="https://github.com/pinuya/pinuya/blob/main/image.jpeg" alt="Izutsumi" style="width: 200%; border: none;">
     </td>
 
 <td style="width: 50%; vertical-align: top;">
