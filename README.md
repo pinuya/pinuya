@@ -5,7 +5,7 @@ Hi 👋, I am **Tifany** an enthusiastic and ambitious full stack developer. I s
 
 ## Github Stats
 
-<img align="right" width="38%" src="https://i.pinimg.com/564x/5a/5e/b5/5a5eb5f3de7feb5579f8ab84dd1c1287.jpg"/>
+<img align="right" width="38%" src="https://i.pinimg.com/564x/42/72/e1/4272e100cfbabbbd64c20ae1a111726a.jpg"/>
 
   <a href="https://github.com/pinuya"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=pinuya&theme=material-palenight"></a>
   <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=pinuya&theme=material-palenight"></a>
