@@ -1,4 +1,7 @@
-<img align="right" width="38%" src="https://i.pinimg.com/control2/736x/d3/c8/0c/d3c80cffff5123b27dc365a588ef440a.jpg"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=pinuya&show_icons=true&title_color=b7acd0&text_color=b7acd0&icon_color=b7acd0&bg_color=070705&cache_seconds=2300" alt="ilustração do status do github">
 
-  <a href="https://github.com/pinuya"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=pinuya&theme=dracula"></a>
-  <a href="https://github.com/pinuya"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=pinuya&theme=dracula"></a>
+### Hello, my name is Tifany!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Tifany&color=b7acd0&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p> Working at Hubfy<br/> I'm a front-end engineer </p>
