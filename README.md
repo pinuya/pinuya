@@ -14,7 +14,11 @@
     │   │   └── pinuya.site
     │   ├── /degree in systems analysis and development
     │   │   └── at univs.edu.br/
-    │   ├── front-end engineer at hubfy
+    │   ├── /front-end engineer
+    │       └── at hubfy
+    │
+    ├── /editors
+    │  └── vs code
     │
     ├── /os
     │   ├── /linux
