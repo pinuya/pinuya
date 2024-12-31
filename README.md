@@ -1,56 +1,20 @@
-<table>
-  <tr>
-    <td style="width: 50%;">
-      <img src="https://i.pinimg.com/736x/38/b8/91/38b8915459e80c5c80a118335cade637.jpg" alt="manga image" style="width: 200%; border: none;">
-    </td>
+<div align="center">
+<img src="https://i.pinimg.com/736x/2d/0c/13/2d0c138b566a3b21080cd0a25ca01ebe.jpg" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DD7DF7&width=435&lines=Hi!+I'm+Tifany%2C+a+software+engineer"/>
+</br>
 
-<td style="width: 50%; vertical-align: top;">
-  
-    /About_Me
-    │
-    ├── /bio
-    │   ├── she/her - brazilian - (pt/br + english)
-    │   ├── /personal portfolio
-    │   │   └── pinuya.site
-    │   ├── /degree in systems analysis and development
-    │   │   └── at univs.edu.br/
-    │   ├── /front-end engineer
-    │       └── at hubfy
-    │
-    ├── /editors
-    │  └── vs code
-    │
-    ├── /os
-    │   ├── /linux
-    │   │   └── ubuntu (main)
-    │   └── /windows
-    │       └── Windows 11
-    │
-    ├── /languages
-    │   ├── java
-    │   ├── javascript
-    │   ├── typescript
-    │   └── tailwindCSS
-    │
-    ├── /frameworks
-    │   ├── remix
-    │   ├── vite
-    │   ├── next.js
-    │   ├── react
-    │   └── node.js
-    │   
-    ├── /infra
-    │   ├── docker
-    │   └── postgress
-    │
-    └── /learning
-        ├── editing codes in Vim
-        ├── prismaORM
-        ├── drizzleORM
-        ├── design
-        └── ui/ux
-        
-    
-  </tr>
-</table>
-    
+<pre>
+  💼 Degree in systems analysis and development
+  💻 Front-end software developer
+  📖 Software architecture
+  🎮 Music • Games • Dev
+</pre>
+
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
+[![linkedin](https://img.shields.io/badge/website-purple)](https://pinuya.site/)
+[![Static Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/tifanyanunes/)
+[![Static Badge](https://img.shields.io/badge/twitter-black)](https://x.com/voidaerials)
+[![Static Badge](https://img.shields.io/badge/instagram-pink)](https://www.instagram.com/voidaerials/)
+
