@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/69/71/df/6971df45ea23fd8e37aa64883e6b5550.jpg" width="25%" align="right" />
+<img src="https://i.pinimg.com/736x/78/15/e4/7815e408d1827db56740a9cd8b9476f2.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8794F7FF&width=435&lines=Hi!+I'm+Tifany%2C+a+software+engineer"/>
 </br>
 
