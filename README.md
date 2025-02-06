@@ -1,6 +1,6 @@
 <div align="center">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=pinuya&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="Status Pinuya">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinuya&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Status Pinuya"/>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=pinuya&show_icons=true&title_color=ae93be&text_color=FFFFFF&icon_color=ae93be&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="Status Pinuya">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinuya&title_color=ae93be&text_color=FFFFFF&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Status Pinuya"/>
 </div>
 
 <div align="center">
