@@ -1,7 +1,4 @@
-<div align="center">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=pinuya&show_icons=true&title_color=ae93be&text_color=FFFFFF&icon_color=ae93be&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="Status Pinuya">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinuya&title_color=ae93be&text_color=FFFFFF&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Status Pinuya"/>
-</div>
+Hi! My name is Tifany, and I currently live in Brazil. I currently work as a Software Engineer. I am always looking to improve my skills through studies, practice, and research. I feel comfortable designing my own layouts and applying them in practice during development. This year, I plan to work on more open-source projects to contribute to the community and refactor all my old projects using the new practices I have been learning to enhance my portfolio. 
 
 <div align="center">
   
