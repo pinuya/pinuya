@@ -2,8 +2,6 @@ Hi! My name is Tifany, and I currently live in Brazil. I currently work as a Sof
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,supabase,html,css,tailwind,remix,bun,git,figma,vscode)](https://skillicons.dev)
-
 [![Static Badge](https://img.shields.io/badge/website-black)](https://pinuya.site/)
 [![Static Badge](https://img.shields.io/badge/twitter-black)](https://x.com/pinuyami)
 [![Static Badge](https://img.shields.io/badge/linkedin-black)](https://www.linkedin.com/in/tifanyanunes/)
