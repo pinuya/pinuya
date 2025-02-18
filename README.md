@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://yuna0x0.com">Pinuya</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://pinuya.site">Pinuya</a>!</h1>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
 <p align="center">I currently work as a Software Engineer at Hubfy. A Software Engineer focused on Front-End. Always seeking to develop robust and responsive screens. However, I am expanding my knowledge to become a FullStack developer</p>
 
