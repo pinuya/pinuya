@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://pinuya.site/">
-    <img src="https://i.pinimg.com/originals/96/08/1a/96081ad0c61c0616864be666dd0372a8.gif" alt="Banner">
+    <img src="https://i.pinimg.com/736x/bd/96/e0/bd96e03e90f32717fe0911bddebd46be.jpg" alt="Banner">
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 <p align="center">I currently work as a Software Engineer at Hubfy. A Software Engineer focused on Front-End. Always seeking to develop robust and responsive screens. However, I am expanding my knowledge to become a FullStack developer</p>
 
 <p align="center">
-<a href="https://github.com/pinuya"><img src="https://github-readme-stats.vercel.app/api?username=pinuya&show_icons=true&title_color=FBC0CD&text_color=FFF&icon_color=FBC0CD&bg_color=0D1017&hide_border=true&cache_seconds=2300" alt="GitHub Status"></a>
+<a href="https://github.com/pinuya"><img src="https://github-readme-stats.vercel.app/api?username=pinuya&show_icons=true&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=0D1017&hide_border=true&cache_seconds=2300" alt="GitHub Status"></a>
 </p>
 
 <p align="center">
