@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://pinuya.site/">
-    <img src="https://i.pinimg.com/736x/bd/96/e0/bd96e03e90f32717fe0911bddebd46be.jpg" alt="Banner">
+    <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Banner">
   </a>
 </p>
 
