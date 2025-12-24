@@ -1,5 +1,3 @@
-# pinuya ૮ ྀིᴗ͈ . ᴗ͈ ྀིა
-
 fullstack developer, sometimes i work on open-source projects and collect cute things ♡₍^. .^₎Ⳋ
 
 <p align="center">
@@ -8,13 +6,13 @@ fullstack developer, sometimes i work on open-source projects and collect cute t
   <img width="279" height="372" src="/assets/a7a0bb57-c4a0-4197-a919-02bb82810d6d.jpeg" alt="madoka magica mangas" />
 </p>
 
-<p align=center>
+<!-- <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,vite,nextjs,remix,docker,tailwind,css,postgres,mysql,supabase,mongodb,git,bun,figma"/>
       </a>
-</p>
+</p> -->
 
-### random things i made ⸜(｡˃ ᵕ ˂ )⸝♡
+### random things i made:
 
 - [Pomodoro](https://github.com/pinuya/pomodoro-todo-app).
-- [Portfolio Template](https://github.com/pinuya/portfolio-template) - in refactoring process.
+- [Portfolio Template](https://github.com/pinuya/portfolio-template).
